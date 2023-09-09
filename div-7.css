@@ -1,0 +1,103 @@
+.kort-1 {
+    
+    width: 1000px;
+    height: 550px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.a1 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 20px;
+    display: block;
+    
+    
+}
+
+.a2 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 20px;
+}
+.a3 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 20px;
+}.aa1 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 17px;
+}
+.aa2 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 17px;;
+}
+.aa3 {
+    width: 300px;
+    
+    height: 250px;
+    margin-top: 17px;
+}
+.img1 {
+    width: 300px;
+    height: 250px;
+}
+.img2 {
+    width: 300px;
+    height: 250px;
+}.img3 {
+    width: 300px;
+    height: 250px;
+}
+.img11 {
+    width: 300px;
+    height: 250px;
+}
+.img22 {
+    width: 300px;
+    height: 250px;
+}
+.img33 {
+    width: 300px;
+    height: 250px;
+}
+.kort-2 {
+    width: 1000px;
+    height: 400px;
+    font-size: 18px;
+   display: flex;
+    
+}
+
+.b1 {
+    
+    width: 450px;
+    height: 365px;
+    margin-top: 22px;
+    margin-left: 70px;
+}
+ul {
+    margin-left: -1px;
+}
+.text {
+    width: 450px;
+    height: 200px;
+    margin-left: 14px;
+}
+p {
+    margin-left: 14px;
+}
+.imgA {
+    width: 450px;
+    height: 365px;
+}
+h1 {
+    margin-left: 14px;
+}

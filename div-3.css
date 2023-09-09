@@ -1,0 +1,114 @@
+.rod-1 {
+    margin-left: 18%;
+    width: 900px;
+    height: 700px;
+    
+}
+.rod-2 {
+    background-color: brown;
+    height: 100px;
+    color: white;
+
+
+}
+h1 {
+    position: relative;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+h2 {
+    color: brown;
+}
+.rod-3 {
+    
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: left;
+}
+.a1 {
+    background-color: brown;
+    width: 32%;
+    height: 150px;
+}
+.a2 {
+    background-color: brown;
+    width: 32%;
+    height: 150px;
+}
+.a3 {
+    background-color: brown;
+    width: 32%;
+    height: 150px;
+}
+.rod-4 {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: left;
+    font-size: 13px;
+}
+.b1 {
+    background-color: brown;
+    width: 22%;
+    height: 150px;
+    
+}
+.b2 {
+    background-color: brown;
+    width: 22%;
+    height: 150px;
+}
+.b3 {
+    background-color: brown;
+    width: 22%;
+    height: 150px;
+}
+.b4 {
+    background-color: brown;
+    width: 22%;
+    height: 150px;
+}
+.rod-5 {
+    background-color: brown;
+    height: 100px;
+    color: white;
+}
+h3 {
+    position: relative;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+.c1 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.c2 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.c3 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.e1 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.e2 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.e3 {
+    margin-left: 7px;
+    margin-top: 6px;
+}
+.e4 {
+    margin-left: 7px;
+    margin-top: 6px;
+}

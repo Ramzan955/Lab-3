@@ -1,0 +1,14 @@
+.block-1 {
+background-color: brown;
+width: 570px;
+}
+.block-2 {
+    background-color: orangered;
+    width: 570px;
+}
+div {
+    background-color: aqua;
+    width: 1140px;
+    display: flex;
+    height: 650px;
+}

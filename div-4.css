@@ -1,0 +1,43 @@
+.rod-1 {
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
+.a1 {
+    width: 540px;
+    background-color: tomato;
+    
+    
+}
+
+
+
+.a2 {
+    background-color: brown;
+    width: 250px;
+    height: 218px;
+    margin-bottom: 50px;
+    margin-top: 1px;
+}
+.a3 {
+    background-color: brown;
+    width: 250px;
+    height: 217px;
+}
+
+.a4 {
+    width: 250px;
+    background-color: brown;
+    margin-right: 42px;
+    height: 217px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+}
+
+.a5 {
+    width: 250px;
+    background-color: brown;
+    margin-right: 42px;
+    height: 217px;
+    margin-bottom: 1px;
+}
