@@ -2,6 +2,7 @@
     width: 1140px;
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
 }
 .a1 {
     width: 540px;

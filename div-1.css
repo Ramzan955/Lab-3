@@ -12,3 +12,6 @@ div {
     display: flex;
     height: 650px;
 }
+.conteiner-block {
+    margin: 0 auto;
+}
